@@ -1,0 +1,8 @@
+{
+  "name": "loginSigma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "583682fa"
+}
